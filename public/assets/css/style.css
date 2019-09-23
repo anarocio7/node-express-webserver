@@ -1,0 +1,11 @@
+footer{
+    background-color: #f8f9fa!important;
+    color: black;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+p, h2{
+    text-indent: 20px;
+}
